@@ -14,12 +14,15 @@ This repository contains:
 
 This project was developed with the following technologies:
 
+- [React](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
-- [React Navigation](https://reactnavigation.org/docs/getting-started/)
-- [React Native Fontawesome](https://fontawesome.com/v5/docs/web/use-with/react-native)
-- [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
+- [PostgreSql](https://www.postgresql.org/)
+- [Docker](https://www.docker.com/)
+- [Typescript](https://www.typescriptlang.org/)
 - [VS Code](https://code.visualstudio.com/)
 
 ## :books: Requirements
 - To have [**Git**](https://git-scm.com/) installed to clone the repository.
 - To have [**Node.js**](https://nodejs.org/en/) installed.
+- To have [**Docker**](https://www.docker.com/) installed.
+- To have Android or IOS device.
