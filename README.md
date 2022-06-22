@@ -1,5 +1,6 @@
 # Gobarber 
 
+<img src="https://user-images.githubusercontent.com/61808503/175107835-65a7dfdf-1bd9-4884-b572-6cf866dd768c.png" />
 <img src="https://cdn-images-1.medium.com/max/1600/1*LHzc8Srf5_XBeKzNWdVnfQ.png"/>
 
 ## Available Scripts
