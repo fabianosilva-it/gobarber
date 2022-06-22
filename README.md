@@ -33,5 +33,5 @@ This project was developed with the following technologies:
 - To have Android or IOS device.
 
 ## :cloud: Cloud services
-- Back-end [Digital Ocean] (https://cloud.digitalocean.com)
+- Back-end [Digital Ocean](https://cloud.digitalocean.com)
 - Front-end [Netlify](https://www.netlify.com/).
