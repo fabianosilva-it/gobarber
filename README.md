@@ -24,6 +24,8 @@ This project was developed with the following technologies:
 - [PostgreSql](https://www.postgresql.org/)
 - [Docker](https://www.docker.com/)
 - [Typescript](https://www.typescriptlang.org/)
+- [Redis](https://redis.io/)
+- [Mongo DB](https://www.mongodb.com)
 - [VS Code](https://code.visualstudio.com/)
 
 ## :books: Requirements
