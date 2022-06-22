@@ -7,9 +7,9 @@
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/61808503/175119597-c038892a-99bb-459a-8e81-c43b39817e66.gif" />
-<img width=300 src="https://user-images.githubusercontent.com/61808503/175123145-d47894e0-3ffd-4d87-aae9-4a4df39c5c39.jpg" />
-<img width=300 src="https://user-images.githubusercontent.com/61808503/175123152-af532a70-2e3b-4f21-ab79-31fd95008f63.jpg" />
-<img width=300 src="https://user-images.githubusercontent.com/61808503/175123149-356ddf96-e04d-4e80-a811-88ae0e0bb027.jpg" />
+<img width=250 src="https://user-images.githubusercontent.com/61808503/175123145-d47894e0-3ffd-4d87-aae9-4a4df39c5c39.jpg" />
+<img width=250 src="https://user-images.githubusercontent.com/61808503/175123152-af532a70-2e3b-4f21-ab79-31fd95008f63.jpg" />
+<img width=250 src="https://user-images.githubusercontent.com/61808503/175123149-356ddf96-e04d-4e80-a811-88ae0e0bb027.jpg" />
 </p>
 
 
