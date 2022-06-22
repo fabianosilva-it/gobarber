@@ -1,6 +1,8 @@
-# Gobarber - Go Stack 11
+# Gobarber 
 
-# Getting Started with Create React App
+<img src="https://cdn-images-1.medium.com/max/1600/1*LHzc8Srf5_XBeKzNWdVnfQ.png"/>
+
+## Available Scripts
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
